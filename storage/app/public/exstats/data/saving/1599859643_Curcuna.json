@@ -1,0 +1,227 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 129027
+        },
+        "fps": 58,
+        "local_time": "Sat, 12 Sep 2020 00:27:23 +0300",
+        "epoch_time": 1599859643,
+        "players_in_game": 2,
+        "map": "[4] Ranked Country Swing LE",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 710,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Tweety",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 21,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAGAS01": 1,
+                    "CAIND01": 1,
+                    "CANEWY20": 1,
+                    "CANEWY21": 1,
+                    "CAMSC10": 1
+                },
+                "units_killed": {
+                    "HARV": 6,
+                    "HTNK": 4,
+                    "DRON": 17,
+                    "HTK": 4,
+                    "PTRUCK": 1,
+                    "SCHP": 13
+                },
+                "infantry_killed": {
+                    "E2": 1,
+                    "DOG": 2,
+                    "SENGINEER": 1
+                },
+                "buildings_lost": {
+                    "GAPOWR": 5,
+                    "GAREFN": 5,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GADEPT": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 2,
+                    "GASPYSAT": 1,
+                    "GAGAP": 1,
+                    "GAPILL": 3,
+                    "GAOREP": 1,
+                    "GAAIRC": 1,
+                    "CAGAS01": 1,
+                    "CAIND01": 1,
+                    "CANEWY20": 1,
+                    "CANEWY21": 1,
+                    "CAMSC10": 1
+                },
+                "units_lost": {
+                    "MTNK": 7,
+                    "CMIN": 7,
+                    "MGTK": 4,
+                    "FV": 8,
+                    "BFRT": 22
+                },
+                "infantry_lost": {
+                    "E1": 34,
+                    "ENGINEER": 7,
+                    "JUMPJET": 6,
+                    "SNIPE": 7,
+                    "GGI": 21
+                },
+                "buildings_bought": {
+                    "GAPOWR": 5,
+                    "GAREFN": 5,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GADEPT": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 3,
+                    "GASPYSAT": 1,
+                    "GAGAP": 1,
+                    "GAPILL": 3,
+                    "GAOREP": 1,
+                    "GAAIRC": 1
+                },
+                "planes_bought": {
+                    "ORCA": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 8,
+                    "CMIN": 7,
+                    "MGTK": 4,
+                    "FV": 8,
+                    "BFRT": 25
+                },
+                "infantry_bought": {
+                    "E1": 35,
+                    "ENGINEER": 7,
+                    "JUMPJET": 6,
+                    "SNIPE": 7,
+                    "ADOG": 4,
+                    "GGI": 23
+                }
+            },
+            "buildings_captured": 5,
+            "units_killed": 45,
+            "infantry_killed": 4,
+            "buildings_lost": 28,
+            "units_lost": 48,
+            "infantry_lost": 75,
+            "buildings_bought": 24,
+            "planes_bought": 1,
+            "units_bought": 53,
+            "infantry_bought": 82,
+            "funds_left": 8408,
+            "side": "Great Britain",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "Curcuna",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "BFRT": 1
+                },
+                "infantry_killed": {
+                    "E1": 1,
+                    "ADOG": 4,
+                    "GGI": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 5,
+                    "NAREFN": 5,
+                    "NALASR": 1,
+                    "NACNST": 1,
+                    "NANRCT": 1,
+                    "NAINDP": 1
+                },
+                "planes_bought": {
+                    "SPYP": 2
+                },
+                "units_bought": {
+                    "HARV": 6,
+                    "HTNK": 28,
+                    "DRON": 17,
+                    "HTK": 4,
+                    "SMCV": 1,
+                    "SCHP": 18
+                },
+                "infantry_bought": {
+                    "E2": 1,
+                    "DOG": 2,
+                    "SENGINEER": 1
+                }
+            },
+            "units_killed": 1,
+            "infantry_killed": 7,
+            "buildings_bought": 20,
+            "planes_bought": 2,
+            "units_bought": 74,
+            "infantry_bought": 4,
+            "funds_left": 325,
+            "side": "Russia",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

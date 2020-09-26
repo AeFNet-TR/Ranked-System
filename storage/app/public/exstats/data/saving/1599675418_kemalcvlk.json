@@ -1,0 +1,190 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 992112
+        },
+        "fps": 58,
+        "local_time": "Wed, 09 Sep 2020 21:16:58 +0300",
+        "epoch_time": 1599675418,
+        "players_in_game": 2,
+        "map": "[4] Ranked Divide and Conquer",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 271,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Redkitt[TR]",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 13,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 1,
+                    "NALASR": 2
+                },
+                "units_killed": {
+                    "HTNK": 6,
+                    "MTNK": 1,
+                    "HTK": 2
+                },
+                "infantry_killed": {
+                    "E2": 11,
+                    "SENGINEER": 2
+                },
+                "buildings_lost": {
+                    "GAPOWR": 3,
+                    "GAREFN": 4,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 3,
+                    "AMRADR": 1
+                },
+                "planes_lost": {
+                    "ORCA": 1
+                },
+                "units_lost": {
+                    "MTNK": 11,
+                    "CMIN": 6
+                },
+                "infantry_lost": {
+                    "E1": 4
+                },
+                "buildings_bought": {
+                    "GAPOWR": 3,
+                    "GAREFN": 6,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 3,
+                    "GAPILL": 1,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "ORCA": 1,
+                    "PDPLANE": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 19,
+                    "CMIN": 6
+                },
+                "infantry_bought": {
+                    "E1": 9,
+                    "JUMPJET": 1,
+                    "ADOG": 6
+                }
+            },
+            "buildings_killed": 7,
+            "units_killed": 9,
+            "infantry_killed": 13,
+            "buildings_lost": 13,
+            "planes_lost": 1,
+            "units_lost": 17,
+            "infantry_lost": 4,
+            "buildings_bought": 16,
+            "planes_bought": 2,
+            "units_bought": 26,
+            "infantry_bought": 16,
+            "funds_left": 1613,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "kemalcvlk",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "MTNK": 7
+                },
+                "infantry_killed": {
+                    "E1": 4,
+                    "JUMPJET": 1,
+                    "ADOG": 6
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 2,
+                    "NALASR": 4,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 4,
+                    "HTNK": 7,
+                    "DRON": 1,
+                    "HTK": 2,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 16,
+                    "ENGINEER": 1,
+                    "DOG": 4,
+                    "SENGINEER": 2
+                }
+            },
+            "units_killed": 7,
+            "infantry_killed": 11,
+            "buildings_bought": 12,
+            "units_bought": 15,
+            "infantry_bought": 23,
+            "funds_left": 6207,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

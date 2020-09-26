@@ -1,0 +1,182 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 2091148
+        },
+        "fps": 59,
+        "local_time": "Sun, 20 Sep 2020 11:50:43 +0300",
+        "epoch_time": 1600591843,
+        "players_in_game": 2,
+        "map": "[4] Ranked Jungle of Vietnam",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 251,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Kirei",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAMSC07": 1,
+                    "CAMSC09": 1
+                },
+                "buildings_killed": {
+                    "GAPOWR": 1,
+                    "GAREFN": 1,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "GAAIRC": 1
+                },
+                "units_killed": {
+                    "CMIN": 1
+                },
+                "infantry_killed": {
+                    "E1": 20,
+                    "E2": 1,
+                    "ENGINEER": 2,
+                    "JUMPJET": 9
+                },
+                "buildings_lost": {
+                    "NAPOWR": 2,
+                    "NAHAND": 1,
+                    "NAWEAP": 2,
+                    "NAREFN": 3,
+                    "CAMSC07": 1,
+                    "CAMSC09": 1
+                },
+                "units_lost": {
+                    "HARV": 4,
+                    "HTNK": 6,
+                    "HTK": 2,
+                    "SMCV": 1
+                },
+                "infantry_lost": {
+                    "E2": 3,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 2,
+                    "NAHAND": 1,
+                    "NAWEAP": 2,
+                    "NAREFN": 3,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 5,
+                    "HTNK": 6,
+                    "DRON": 1,
+                    "HTK": 2,
+                    "SMCV": 2
+                },
+                "infantry_bought": {
+                    "E2": 4,
+                    "DOG": 2
+                }
+            },
+            "buildings_captured": 2,
+            "buildings_killed": 7,
+            "units_killed": 1,
+            "infantry_killed": 32,
+            "buildings_lost": 10,
+            "units_lost": 13,
+            "infantry_lost": 5,
+            "buildings_bought": 9,
+            "units_bought": 16,
+            "infantry_bought": 6,
+            "funds_left": 8725,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "beroo_",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2494,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "DRON": 1
+                },
+                "buildings_bought": {
+                    "GAPOWR": 1,
+                    "GAREFN": 1,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "GAAIRC": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "CMIN": 1
+                },
+                "infantry_bought": {
+                    "E1": 21,
+                    "ENGINEER": 2,
+                    "JUMPJET": 5
+                }
+            },
+            "units_killed": 1,
+            "buildings_bought": 7,
+            "units_bought": 2,
+            "infantry_bought": 28,
+            "funds_left": 100,
+            "side": "France",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

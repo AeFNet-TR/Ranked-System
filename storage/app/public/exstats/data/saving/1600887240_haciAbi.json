@@ -1,0 +1,209 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 2392146
+        },
+        "fps": 55,
+        "local_time": "Wed, 23 Sep 2020 21:54:00 +0300",
+        "epoch_time": 1600887240,
+        "players_in_game": 2,
+        "map": "[4] Ranked Jungle of Vietnam",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 404,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Redkitt[TR]",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 15,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "GAPILL": 1
+                },
+                "units_killed": {
+                    "HTNK": 1,
+                    "MTNK": 8,
+                    "CMIN": 3,
+                    "FV": 7
+                },
+                "infantry_killed": {
+                    "E1": 12,
+                    "JUMPJET": 11,
+                    "ADOG": 1,
+                    "JOSH": 1
+                },
+                "buildings_lost": {
+                    "NAPOWR": 6,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 5,
+                    "NAREFN": 3,
+                    "NACNST": 1,
+                    "NAFLAK": 1
+                },
+                "units_lost": {
+                    "HARV": 6,
+                    "HTNK": 28,
+                    "HTK": 7
+                },
+                "infantry_lost": {
+                    "E2": 1,
+                    "DOG": 1
+                },
+                "buildings_bought": {
+                    "NAPOWR": 6,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 5,
+                    "NAREFN": 4,
+                    "NACNST": 1,
+                    "NAYARD": 1,
+                    "NANRCT": 1,
+                    "NAFLAK": 1
+                },
+                "units_bought": {
+                    "HARV": 6,
+                    "HTNK": 37,
+                    "HTK": 7,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 1,
+                    "DOG": 3
+                }
+            },
+            "buildings_killed": 1,
+            "units_killed": 19,
+            "infantry_killed": 25,
+            "buildings_lost": 19,
+            "units_lost": 41,
+            "infantry_lost": 2,
+            "buildings_bought": 22,
+            "units_bought": 51,
+            "infantry_bought": 4,
+            "funds_left": 3206,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "haciAbi",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "HTNK": 6
+                },
+                "infantry_killed": {
+                    "DOG": 2
+                },
+                "buildings_lost": {
+                    "GAPOWR": 2,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 1,
+                    "AMRADR": 1
+                },
+                "units_lost": {
+                    "CMIN": 1
+                },
+                "infantry_lost": {
+                    "E1": 4,
+                    "JUMPJET": 4,
+                    "ADOG": 1
+                },
+                "buildings_bought": {
+                    "GAPOWR": 2,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 2,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "PDPLANE": 2
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 8,
+                    "CMIN": 4,
+                    "FV": 7
+                },
+                "infantry_bought": {
+                    "E1": 16,
+                    "JUMPJET": 15,
+                    "ADOG": 2
+                }
+            },
+            "units_killed": 6,
+            "infantry_killed": 2,
+            "buildings_lost": 9,
+            "units_lost": 1,
+            "infantry_lost": 9,
+            "buildings_bought": 10,
+            "planes_bought": 2,
+            "units_bought": 20,
+            "infantry_bought": 33,
+            "funds_left": 1525,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_QUIT"
+}

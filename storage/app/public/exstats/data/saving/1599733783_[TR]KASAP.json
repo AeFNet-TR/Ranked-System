@@ -1,0 +1,232 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1091328
+        },
+        "fps": 59,
+        "local_time": "Thu, 10 Sep 2020 13:29:43 +0300",
+        "epoch_time": 1599733783,
+        "players_in_game": 2,
+        "map": "[2] Ranked Cloud Nine",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 534,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Koniciwa",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CABUNK04": 1
+                },
+                "planes_killed": {
+                    "BEAG": 5
+                },
+                "units_killed": {
+                    "MTNK": 12,
+                    "SREF": 1,
+                    "MGTK": 4,
+                    "FV": 4
+                },
+                "infantry_killed": {
+                    "E1": 3,
+                    "JUMPJET": 3,
+                    "ADOG": 3,
+                    "GGI": 1
+                },
+                "buildings_lost": {
+                    "NAPOWR": 2,
+                    "NAHAND": 1,
+                    "NAWEAP": 2,
+                    "NAREFN": 1,
+                    "NAFLAK": 1,
+                    "NABNKR": 2
+                },
+                "units_lost": {
+                    "HARV": 1,
+                    "HTNK": 1
+                },
+                "infantry_lost": {
+                    "E2": 14,
+                    "DOG": 1
+                },
+                "buildings_bought": {
+                    "NAPOWR": 2,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 3,
+                    "NACNST": 1,
+                    "NAFLAK": 1,
+                    "NABNKR": 4
+                },
+                "units_bought": {
+                    "HARV": 7,
+                    "HTNK": 29,
+                    "HTK": 8,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 23,
+                    "DOG": 2
+                }
+            },
+            "buildings_captured": 1,
+            "planes_killed": 5,
+            "units_killed": 21,
+            "infantry_killed": 10,
+            "buildings_lost": 9,
+            "units_lost": 2,
+            "infantry_lost": 15,
+            "buildings_bought": 15,
+            "units_bought": 45,
+            "infantry_bought": 25,
+            "funds_left": 2118,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "[TR]KASAP",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 1600,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 15,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1,
+                    "CABUNK02": 1
+                },
+                "buildings_killed": {
+                    "NABNKR": 2
+                },
+                "units_killed": {
+                    "HARV": 3,
+                    "HTNK": 26,
+                    "HTK": 7
+                },
+                "infantry_killed": {
+                    "E2": 9,
+                    "DOG": 1
+                },
+                "buildings_lost": {
+                    "GAPOWR": 4,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 2,
+                    "GAPILL": 1,
+                    "CAOILD": 1,
+                    "GAOREP": 1,
+                    "GAAIRC": 1,
+                    "CABUNK02": 1
+                },
+                "units_lost": {
+                    "MTNK": 1,
+                    "CMIN": 6,
+                    "SREF": 4,
+                    "MGTK": 8
+                },
+                "infantry_lost": {
+                    "E1": 2,
+                    "ADOG": 1,
+                    "GGI": 2
+                },
+                "buildings_bought": {
+                    "GAPOWR": 4,
+                    "GAREFN": 4,
+                    "GACNST": 2,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 2,
+                    "GAPILL": 1,
+                    "GAOREP": 1,
+                    "GAAIRC": 1
+                },
+                "planes_bought": {
+                    "BEAG": 5
+                },
+                "units_bought": {
+                    "AMCV": 2,
+                    "MTNK": 13,
+                    "CMIN": 6,
+                    "SREF": 6,
+                    "MGTK": 13,
+                    "FV": 4
+                },
+                "infantry_bought": {
+                    "E1": 5,
+                    "ENGINEER": 1,
+                    "JUMPJET": 3,
+                    "ADOG": 4,
+                    "GGI": 3
+                }
+            },
+            "buildings_captured": 2,
+            "buildings_killed": 2,
+            "units_killed": 36,
+            "infantry_killed": 10,
+            "buildings_lost": 17,
+            "units_lost": 19,
+            "infantry_lost": 5,
+            "buildings_bought": 17,
+            "planes_bought": 5,
+            "units_bought": 44,
+            "infantry_bought": 16,
+            "funds_left": 15048,
+            "side": "Korea",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

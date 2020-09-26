@@ -1,0 +1,226 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 149022
+        },
+        "fps": 59,
+        "local_time": "Mon, 14 Sep 2020 00:22:38 +0300",
+        "epoch_time": 1600032158,
+        "players_in_game": 2,
+        "map": "[2] Ranked Hidden Valley LE v1.34",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 751,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "umut30",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 3
+                },
+                "buildings_killed": {
+                    "GAPOWR": 8,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAWEAP": 1,
+                    "NASAM": 1,
+                    "GTGCAN": 3,
+                    "GAAIRC": 1
+                },
+                "units_killed": {
+                    "FV": 6
+                },
+                "infantry_killed": {
+                    "E1": 15,
+                    "JUMPJET": 4,
+                    "ADOG": 5
+                },
+                "buildings_lost": {
+                    "NAPOWR": 2,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 4,
+                    "NACNST": 1,
+                    "NANRCT": 1,
+                    "NAFLAK": 3,
+                    "CAOILD": 2
+                },
+                "units_lost": {
+                    "HARV": 3,
+                    "HTNK": 1,
+                    "HTK": 3,
+                    "SCHP": 13
+                },
+                "buildings_bought": {
+                    "NAPOWR": 2,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 4,
+                    "NALASR": 1,
+                    "NACNST": 1,
+                    "NANRCT": 1,
+                    "NAFLAK": 3
+                },
+                "planes_bought": {
+                    "SPYP": 2
+                },
+                "units_bought": {
+                    "HARV": 4,
+                    "HTNK": 23,
+                    "DRON": 1,
+                    "HTK": 11,
+                    "SMCV": 1,
+                    "SCHP": 20
+                },
+                "infantry_bought": {
+                    "DOG": 2,
+                    "SENGINEER": 9
+                }
+            },
+            "buildings_captured": 3,
+            "buildings_killed": 17,
+            "units_killed": 6,
+            "infantry_killed": 24,
+            "buildings_lost": 20,
+            "units_lost": 20,
+            "buildings_bought": 19,
+            "planes_bought": 2,
+            "units_bought": 60,
+            "infantry_bought": 11,
+            "funds_left": 8535,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "Tolga",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2798,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 3
+                },
+                "units_killed": {
+                    "HARV": 1,
+                    "HTNK": 21,
+                    "DRON": 1,
+                    "HTK": 8,
+                    "SCHP": 7
+                },
+                "infantry_killed": {
+                    "DOG": 2,
+                    "SENGINEER": 5
+                },
+                "buildings_lost": {
+                    "GAPOWR": 7,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "NASAM": 4,
+                    "GTGCAN": 5,
+                    "CAOILD": 1,
+                    "GAAIRC": 1
+                },
+                "units_lost": {
+                    "CMIN": 4,
+                    "FV": 1
+                },
+                "infantry_lost": {
+                    "E1": 5
+                },
+                "buildings_bought": {
+                    "GAPOWR": 17,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 2,
+                    "NASAM": 6,
+                    "GTGCAN": 12,
+                    "GAAIRC": 2
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "CMIN": 5,
+                    "FV": 7
+                },
+                "infantry_bought": {
+                    "E1": 20,
+                    "ENGINEER": 3,
+                    "JUMPJET": 4,
+                    "ADOG": 5
+                }
+            },
+            "buildings_captured": 3,
+            "units_killed": 38,
+            "infantry_killed": 7,
+            "buildings_lost": 21,
+            "units_lost": 5,
+            "infantry_lost": 5,
+            "buildings_bought": 44,
+            "units_bought": 13,
+            "infantry_bought": 32,
+            "funds_left": 1100,
+            "side": "France",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_QUIT"
+}

@@ -1,0 +1,181 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1191726
+        },
+        "fps": 54,
+        "local_time": "Fri, 11 Sep 2020 17:28:19 +0300",
+        "epoch_time": 1599834499,
+        "players_in_game": 2,
+        "map": "[2] Ranked Cloud Nine",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 327,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Feda",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1,
+                    "CABUNK02": 1
+                },
+                "units_killed": {
+                    "HTNK": 13
+                },
+                "infantry_killed": {
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "GAPOWR": 3,
+                    "GAREFN": 4,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 1,
+                    "GAAIRC": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 14,
+                    "CMIN": 4
+                },
+                "infantry_bought": {
+                    "E1": 3,
+                    "ENGINEER": 1,
+                    "ADOG": 2,
+                    "GGI": 5
+                }
+            },
+            "buildings_captured": 2,
+            "units_killed": 13,
+            "infantry_killed": 2,
+            "buildings_bought": 13,
+            "units_bought": 19,
+            "infantry_bought": 11,
+            "funds_left": 2520,
+            "side": "France",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "AIBAL",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 1600,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1,
+                    "CABUNK04": 1
+                },
+                "units_killed": {
+                    "MTNK": 12,
+                    "CMIN": 2
+                },
+                "infantry_killed": {
+                    "ADOG": 2,
+                    "GGI": 5
+                },
+                "buildings_lost": {
+                    "NAPOWR": 2,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 2,
+                    "NACNST": 1,
+                    "CAOILD": 1,
+                    "CABUNK04": 1
+                },
+                "units_lost": {
+                    "HARV": 4,
+                    "HTNK": 8
+                },
+                "infantry_lost": {
+                    "E2": 5,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 2,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 4,
+                    "HTNK": 21,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 5,
+                    "DOG": 4,
+                    "SENGINEER": 1
+                }
+            },
+            "buildings_captured": 2,
+            "units_killed": 14,
+            "infantry_killed": 7,
+            "buildings_lost": 11,
+            "units_lost": 12,
+            "infantry_lost": 7,
+            "buildings_bought": 10,
+            "units_bought": 26,
+            "infantry_bought": 10,
+            "funds_left": 1680,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

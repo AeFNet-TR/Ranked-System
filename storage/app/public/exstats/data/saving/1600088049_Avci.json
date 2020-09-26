@@ -1,0 +1,189 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1491552
+        },
+        "fps": 58,
+        "local_time": "Mon, 14 Sep 2020 15:54:09 +0300",
+        "epoch_time": 1600088049,
+        "players_in_game": 2,
+        "map": "[4] Ranked Divide and Conquer",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 229,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Twetty",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 33554432
+            },
+            "detailed_counts": {
+                "infantry_killed": {
+                    "ADOG": 4
+                },
+                "buildings_bought": {
+                    "GAPOWR": 2,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "NASAM": 2,
+                    "GAPILL": 1,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "PDPLANE": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 9,
+                    "CMIN": 6
+                },
+                "infantry_bought": {
+                    "E1": 15,
+                    "ENGINEER": 1,
+                    "JUMPJET": 11,
+                    "ADOG": 5
+                }
+            },
+            "infantry_killed": 4,
+            "buildings_bought": 13,
+            "planes_bought": 1,
+            "units_bought": 16,
+            "infantry_bought": 32,
+            "funds_left": 5425,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Avci",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2599,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "AMRADR": 1
+                },
+                "units_killed": {
+                    "MTNK": 8,
+                    "CMIN": 1
+                },
+                "infantry_killed": {
+                    "E1": 6,
+                    "ENGINEER": 1,
+                    "JUMPJET": 11,
+                    "ADOG": 5
+                },
+                "buildings_lost": {
+                    "GAPOWR": 2,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "AMRADR": 1
+                },
+                "units_lost": {
+                    "MTNK": 9,
+                    "CMIN": 6,
+                    "FV": 1
+                },
+                "infantry_lost": {
+                    "E1": 10,
+                    "JUMPJET": 4
+                },
+                "buildings_bought": {
+                    "GAPOWR": 2,
+                    "GAREFN": 5,
+                    "GACNST": 2,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 1,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "PDPLANE": 1
+                },
+                "units_bought": {
+                    "AMCV": 2,
+                    "MTNK": 11,
+                    "CMIN": 6,
+                    "FV": 1
+                },
+                "infantry_bought": {
+                    "E1": 10,
+                    "JUMPJET": 4,
+                    "ADOG": 4
+                }
+            },
+            "buildings_killed": 5,
+            "units_killed": 9,
+            "infantry_killed": 23,
+            "buildings_lost": 9,
+            "units_lost": 16,
+            "infantry_lost": 14,
+            "buildings_bought": 13,
+            "planes_bought": 1,
+            "units_bought": 20,
+            "infantry_bought": 18,
+            "funds_left": 5150,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

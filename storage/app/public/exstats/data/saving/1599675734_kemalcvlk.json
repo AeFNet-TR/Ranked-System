@@ -1,0 +1,188 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 992121
+        },
+        "fps": 57,
+        "local_time": "Wed, 09 Sep 2020 21:22:14 +0300",
+        "epoch_time": 1599675734,
+        "players_in_game": 2,
+        "map": "[4] Ranked Heck Freezes Over LE",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 378,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Redkitt[TR]",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 25,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAPSIS": 1,
+                    "YAPOWR": 1,
+                    "YAWEAP": 1,
+                    "YAREFN": 1
+                },
+                "units_killed": {
+                    "LTNK": 1,
+                    "YTNK": 2,
+                    "TELE": 4
+                },
+                "infantry_killed": {
+                    "ENGINEER": 1,
+                    "INIT": 4
+                },
+                "buildings_lost": {
+                    "NAPOWR": 4,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 3,
+                    "NAIRON": 1,
+                    "NACNST": 1,
+                    "NAMISL": 1,
+                    "NANRCT": 1
+                },
+                "units_lost": {
+                    "HARV": 6,
+                    "HTNK": 18,
+                    "HTK": 1
+                },
+                "infantry_lost": {
+                    "E2": 1,
+                    "DOG": 2,
+                    "SLAV": 5
+                },
+                "buildings_bought": {
+                    "NAPOWR": 4,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 5,
+                    "NAIRON": 1,
+                    "NACNST": 1,
+                    "NAMISL": 1,
+                    "NANRCT": 1
+                },
+                "units_bought": {
+                    "HARV": 6,
+                    "HTNK": 18,
+                    "HTK": 1,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 1,
+                    "DESO": 4,
+                    "DOG": 4
+                }
+            },
+            "buildings_killed": 4,
+            "units_killed": 7,
+            "infantry_killed": 5,
+            "buildings_lost": 15,
+            "units_lost": 25,
+            "infantry_lost": 8,
+            "buildings_bought": 17,
+            "units_bought": 26,
+            "infantry_bought": 9,
+            "funds_left": 1260,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "kemalcvlk",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 2,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "infantry_killed": {
+                    "DESO": 4,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPSIS": 2,
+                    "YACNST": 2,
+                    "YAPOWR": 1,
+                    "YABRCK": 1,
+                    "YAWEAP": 1,
+                    "YAGRND": 1,
+                    "NATBNK": 1,
+                    "YAREFN": 7
+                },
+                "units_bought": {
+                    "LTNK": 2,
+                    "PCV": 3,
+                    "SMIN": 5,
+                    "YTNK": 6,
+                    "TELE": 4,
+                    "CAOS": 1
+                },
+                "infantry_bought": {
+                    "ENGINEER": 1,
+                    "INIT": 11
+                }
+            },
+            "infantry_killed": 6,
+            "buildings_bought": 16,
+            "units_bought": 21,
+            "infantry_bought": 12,
+            "funds_left": 4150,
+            "side": "Yuri",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

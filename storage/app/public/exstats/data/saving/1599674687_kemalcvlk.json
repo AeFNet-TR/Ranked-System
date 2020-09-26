@@ -1,0 +1,206 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 99214
+        },
+        "fps": 58,
+        "local_time": "Wed, 09 Sep 2020 21:04:47 +0300",
+        "epoch_time": 1599674687,
+        "players_in_game": 2,
+        "map": "[4] Ranked Desert Island",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 490,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Redkitt[TR]",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 17,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NATECH": 1,
+                    "NAWEAP": 2
+                },
+                "units_killed": {
+                    "HARV": 4,
+                    "HTNK": 18,
+                    "MTNK": 1,
+                    "HTK": 5
+                },
+                "infantry_killed": {
+                    "DESO": 3,
+                    "DOG": 2,
+                    "SENGINEER": 2
+                },
+                "buildings_lost": {
+                    "GAPOWR": 3,
+                    "GAREFN": 6,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GADEPT": 1,
+                    "GAWEAP": 3,
+                    "AMRADR": 1
+                },
+                "planes_lost": {
+                    "ORCA": 3
+                },
+                "units_lost": {
+                    "MTNK": 17,
+                    "CMIN": 9
+                },
+                "infantry_lost": {
+                    "E1": 2,
+                    "JUMPJET": 8,
+                    "ADOG": 2
+                },
+                "buildings_bought": {
+                    "GAPOWR": 5,
+                    "GAREFN": 9,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GADEPT": 1,
+                    "GAWEAP": 4,
+                    "NASAM": 1,
+                    "GAPILL": 3,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "ORCA": 5,
+                    "PDPLANE": 2
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 43,
+                    "CMIN": 9
+                },
+                "infantry_bought": {
+                    "E1": 21,
+                    "JUMPJET": 15,
+                    "ADOG": 9
+                }
+            },
+            "buildings_killed": 3,
+            "units_killed": 28,
+            "infantry_killed": 7,
+            "buildings_lost": 16,
+            "planes_lost": 3,
+            "units_lost": 26,
+            "infantry_lost": 12,
+            "buildings_bought": 26,
+            "planes_bought": 7,
+            "units_bought": 53,
+            "infantry_bought": 45,
+            "funds_left": 493,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "kemalcvlk",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "GAPOWR": 1,
+                    "GAWEAP": 1
+                },
+                "planes_killed": {
+                    "ORCA": 1
+                },
+                "units_killed": {
+                    "MTNK": 24
+                },
+                "infantry_killed": {
+                    "E1": 13,
+                    "JUMPJET": 7,
+                    "ADOG": 7
+                },
+                "buildings_bought": {
+                    "NAPOWR": 2,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 3,
+                    "NACNST": 1,
+                    "NAMISL": 1
+                },
+                "units_bought": {
+                    "HARV": 5,
+                    "HTNK": 19,
+                    "DRON": 1,
+                    "HTK": 5,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 12,
+                    "DESO": 3,
+                    "DOG": 3,
+                    "SENGINEER": 2
+                }
+            },
+            "buildings_killed": 2,
+            "planes_killed": 1,
+            "units_killed": 24,
+            "infantry_killed": 27,
+            "buildings_bought": 13,
+            "units_bought": 31,
+            "infantry_bought": 20,
+            "funds_left": 3600,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

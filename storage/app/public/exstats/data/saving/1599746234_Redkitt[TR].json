@@ -1,0 +1,178 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1091656
+        },
+        "fps": 59,
+        "local_time": "Thu, 10 Sep 2020 16:57:14 +0300",
+        "epoch_time": 1599746234,
+        "players_in_game": 2,
+        "map": "[4] Ranked Country Swing LE",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 124,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "SpeedyGonzaL",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "infantry_killed": {
+                    "DOG": 1
+                },
+                "buildings_lost": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 1
+                },
+                "units_lost": {
+                    "HARV": 3
+                },
+                "infantry_lost": {
+                    "E2": 27
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 1,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 3,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 30
+                }
+            },
+            "infantry_killed": 1,
+            "buildings_lost": 4,
+            "units_lost": 3,
+            "infantry_lost": 27,
+            "buildings_bought": 6,
+            "units_bought": 4,
+            "infantry_bought": 30,
+            "funds_left": 2100,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Redkitt[TR]",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "NACNST": 1
+                },
+                "infantry_killed": {
+                    "E2": 3
+                },
+                "buildings_lost": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 1,
+                    "NACNST": 1
+                },
+                "units_lost": {
+                    "HARV": 4,
+                    "DRON": 1,
+                    "HTK": 1
+                },
+                "infantry_lost": {
+                    "E2": 3,
+                    "DESO": 1,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 1,
+                    "NACNST": 2
+                },
+                "units_bought": {
+                    "HARV": 5,
+                    "DRON": 1,
+                    "HTK": 1,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 3,
+                    "DESO": 1,
+                    "DOG": 3,
+                    "SENGINEER": 1
+                }
+            },
+            "buildings_captured": 1,
+            "infantry_killed": 3,
+            "buildings_lost": 6,
+            "units_lost": 6,
+            "infantry_lost": 6,
+            "buildings_bought": 7,
+            "units_bought": 8,
+            "infantry_bought": 8,
+            "funds_left": 1013,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

@@ -1,0 +1,248 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 2091157
+        },
+        "fps": 58,
+        "local_time": "Sun, 20 Sep 2020 12:00:23 +0300",
+        "epoch_time": 1600592423,
+        "players_in_game": 2,
+        "map": "[2] Ranked Cloud Nine",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 368,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "ujh",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1,
+                    "CABUNK04": 1
+                },
+                "units_killed": {
+                    "FV": 4
+                },
+                "infantry_killed": {
+                    "E1": 1,
+                    "ENGINEER": 1,
+                    "ADOG": 3
+                },
+                "buildings_lost": {
+                    "GAPOWR": 3,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GADEPT": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "NASAM": 2,
+                    "ATESLA": 1,
+                    "GASPYSAT": 1,
+                    "GAPILL": 1,
+                    "CAOILD": 1,
+                    "AMRADR": 1,
+                    "CABUNK04": 1
+                },
+                "units_lost": {
+                    "CMIN": 4,
+                    "MGTK": 3,
+                    "BFRT": 1
+                },
+                "infantry_lost": {
+                    "E1": 7,
+                    "JUMPJET": 2
+                },
+                "buildings_bought": {
+                    "GAPOWR": 5,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GADEPT": 1,
+                    "GATECH": 2,
+                    "GAWEAP": 1,
+                    "NASAM": 2,
+                    "ATESLA": 1,
+                    "GASPYSAT": 1,
+                    "GAPILL": 3,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "PDPLANE": 4
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "CMIN": 4,
+                    "MGTK": 4,
+                    "FV": 2,
+                    "BFRT": 2
+                },
+                "infantry_bought": {
+                    "E1": 36,
+                    "ENGINEER": 1,
+                    "JUMPJET": 12,
+                    "ADOG": 1
+                }
+            },
+            "buildings_captured": 2,
+            "units_killed": 4,
+            "infantry_killed": 5,
+            "buildings_lost": 18,
+            "units_lost": 8,
+            "infantry_lost": 9,
+            "buildings_bought": 21,
+            "planes_bought": 4,
+            "units_bought": 13,
+            "infantry_bought": 50,
+            "funds_left": 10,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Kirei",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2494,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1
+                },
+                "buildings_killed": {
+                    "GAPOWR": 1,
+                    "GAPILL": 1
+                },
+                "planes_killed": {
+                    "PDPLANE": 1
+                },
+                "units_killed": {
+                    "MGTK": 1,
+                    "FV": 2,
+                    "BFRT": 1
+                },
+                "infantry_killed": {
+                    "E1": 29,
+                    "JUMPJET": 10,
+                    "ADOG": 1
+                },
+                "buildings_lost": {
+                    "GAPOWR": 2,
+                    "GAREFN": 1,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "GAGAP": 1,
+                    "CAOILD": 1,
+                    "GAAIRC": 1
+                },
+                "units_lost": {
+                    "CMIN": 3,
+                    "SREF": 2,
+                    "MGTK": 2,
+                    "FV": 2,
+                    "BFRT": 1
+                },
+                "infantry_lost": {
+                    "E1": 2,
+                    "ENGINEER": 1,
+                    "JUMPJET": 5,
+                    "SNIPE": 1,
+                    "GGI": 3
+                },
+                "buildings_bought": {
+                    "GAPOWR": 2,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 1,
+                    "GAGAP": 2,
+                    "GAAIRC": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "CMIN": 3,
+                    "SREF": 2,
+                    "MGTK": 2,
+                    "FV": 7,
+                    "BFRT": 1
+                },
+                "infantry_bought": {
+                    "E1": 4,
+                    "ENGINEER": 3,
+                    "JUMPJET": 5,
+                    "SNIPE": 1,
+                    "ADOG": 3,
+                    "GGI": 3
+                }
+            },
+            "buildings_captured": 1,
+            "buildings_killed": 2,
+            "planes_killed": 1,
+            "units_killed": 4,
+            "infantry_killed": 40,
+            "buildings_lost": 10,
+            "units_lost": 10,
+            "infantry_lost": 12,
+            "buildings_bought": 12,
+            "units_bought": 16,
+            "infantry_bought": 19,
+            "funds_left": 2401,
+            "side": "Great Britain",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

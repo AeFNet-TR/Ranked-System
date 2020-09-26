@@ -1,0 +1,172 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1491558
+        },
+        "fps": 59,
+        "local_time": "Mon, 14 Sep 2020 15:58:54 +0300",
+        "epoch_time": 1600088334,
+        "players_in_game": 2,
+        "map": "[4] Ranked Divide and Conquer",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 309,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Twetty",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 33554432
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "HTNK": 11,
+                    "DRON": 1
+                },
+                "infantry_killed": {
+                    "E2": 8,
+                    "DOG": 15
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NAHAND": 2,
+                    "NAWEAP": 4,
+                    "NAREFN": 4,
+                    "NALASR": 4,
+                    "NACNST": 1,
+                    "NADEPT": 1
+                },
+                "units_bought": {
+                    "HARV": 8,
+                    "HTNK": 19,
+                    "DRON": 1,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 7,
+                    "SHK": 1,
+                    "DOG": 12
+                }
+            },
+            "units_killed": 12,
+            "infantry_killed": 23,
+            "buildings_bought": 19,
+            "units_bought": 29,
+            "infantry_bought": 20,
+            "funds_left": 2576,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Avci",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2599,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 13,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAWEAP": 1
+                },
+                "units_killed": {
+                    "HARV": 7,
+                    "HTNK": 17
+                },
+                "infantry_killed": {
+                    "E2": 7,
+                    "SHK": 1,
+                    "DOG": 11
+                },
+                "buildings_lost": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 3,
+                    "NALASR": 1,
+                    "NACNST": 1
+                },
+                "units_lost": {
+                    "HARV": 7,
+                    "HTNK": 14
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 6,
+                    "NALASR": 3,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 7,
+                    "HTNK": 25,
+                    "DRON": 1,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 8,
+                    "DOG": 15
+                }
+            },
+            "buildings_killed": 1,
+            "units_killed": 24,
+            "infantry_killed": 19,
+            "buildings_lost": 13,
+            "units_lost": 21,
+            "buildings_bought": 18,
+            "units_bought": 34,
+            "infantry_bought": 23,
+            "funds_left": 474,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

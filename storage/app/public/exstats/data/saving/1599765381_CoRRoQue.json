@@ -1,0 +1,201 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1092214
+        },
+        "fps": 59,
+        "local_time": "Thu, 10 Sep 2020 22:16:21 +0300",
+        "epoch_time": 1599765381,
+        "players_in_game": 2,
+        "map": "[2] Ranked Frozen Divide",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 482,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "goksubey",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 25,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 2,
+                    "CAFARM06": 2,
+                    "CABUNK01": 1,
+                    "CABUNK03": 1
+                },
+                "buildings_killed": {
+                    "GAREFN": 1,
+                    "GACNST": 1,
+                    "GAWEAP": 1,
+                    "GTGCAN": 1
+                },
+                "units_killed": {
+                    "MTNK": 3,
+                    "CMIN": 3,
+                    "FV": 1
+                },
+                "infantry_killed": {
+                    "E1": 7,
+                    "JUMPJET": 6,
+                    "ADOG": 2
+                },
+                "buildings_lost": {
+                    "NAPOWR": 1,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 3,
+                    "NALASR": 1,
+                    "NACNST": 1,
+                    "NANRCT": 1,
+                    "CAOILD": 2,
+                    "CAFARM06": 2,
+                    "CABUNK01": 1,
+                    "CABUNK03": 1
+                },
+                "units_lost": {
+                    "HARV": 8,
+                    "HTNK": 21,
+                    "ZEP": 2,
+                    "HTK": 1
+                },
+                "infantry_lost": {
+                    "E2": 4
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 6,
+                    "NALASR": 1,
+                    "NACNST": 1,
+                    "NANRCT": 1
+                },
+                "units_bought": {
+                    "HARV": 8,
+                    "HTNK": 26,
+                    "ZEP": 2,
+                    "HTK": 3,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 4,
+                    "DOG": 3,
+                    "SENGINEER": 2
+                }
+            },
+            "buildings_captured": 6,
+            "buildings_killed": 4,
+            "units_killed": 7,
+            "infantry_killed": 15,
+            "buildings_lost": 20,
+            "units_lost": 32,
+            "infantry_lost": 4,
+            "buildings_bought": 17,
+            "units_bought": 40,
+            "infantry_bought": 9,
+            "funds_left": 46815,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "CoRRoQue",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2208,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "HTNK": 2,
+                    "HTK": 1
+                },
+                "infantry_killed": {
+                    "DOG": 3
+                },
+                "buildings_bought": {
+                    "GAPOWR": 4,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 2,
+                    "GAWEAP": 1,
+                    "GTGCAN": 3,
+                    "GAAIRC": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 3,
+                    "CMIN": 4,
+                    "FV": 2
+                },
+                "infantry_bought": {
+                    "E1": 18,
+                    "ENGINEER": 1,
+                    "JUMPJET": 7,
+                    "ADOG": 3
+                }
+            },
+            "units_killed": 3,
+            "infantry_killed": 3,
+            "buildings_bought": 15,
+            "units_bought": 10,
+            "infantry_bought": 29,
+            "funds_left": 3727,
+            "side": "France",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

@@ -1,0 +1,218 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 2592019
+        },
+        "fps": 56,
+        "local_time": "Fri, 25 Sep 2020 20:20:46 +0300",
+        "epoch_time": 1601054446,
+        "players_in_game": 2,
+        "map": "[2] Ranked Hidden Valley LE v1.34",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 393,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "erdalca",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 29,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "HTNK": 3,
+                    "DRON": 2,
+                    "DTRUCK": 2
+                },
+                "infantry_killed": {
+                    "SHK": 2,
+                    "DOG": 1
+                },
+                "buildings_lost": {
+                    "GAPOWR": 1,
+                    "GACNST": 1
+                },
+                "units_lost": {
+                    "CMIN": 1
+                },
+                "infantry_lost": {
+                    "ADOG": 1
+                },
+                "buildings_bought": {
+                    "GAPOWR": 2,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 1,
+                    "AMRADR": 2
+                },
+                "planes_bought": {
+                    "PDPLANE": 2
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 14,
+                    "CMIN": 2
+                },
+                "infantry_bought": {
+                    "E1": 23,
+                    "JUMPJET": 3,
+                    "ADOG": 4
+                }
+            },
+            "units_killed": 7,
+            "infantry_killed": 3,
+            "buildings_lost": 2,
+            "units_lost": 1,
+            "infantry_lost": 1,
+            "buildings_bought": 11,
+            "planes_bought": 2,
+            "units_bought": 17,
+            "infantry_bought": 30,
+            "funds_left": 35,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Bartwo",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2494,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 17,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 2
+                },
+                "buildings_killed": {
+                    "GAPOWR": 1,
+                    "GAREFN": 2,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 1,
+                    "AMRADR": 1
+                },
+                "units_killed": {
+                    "MTNK": 13,
+                    "CMIN": 1
+                },
+                "infantry_killed": {
+                    "E1": 19,
+                    "JUMPJET": 2,
+                    "ADOG": 3
+                },
+                "buildings_lost": {
+                    "NAPOWR": 2,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 2,
+                    "NAREFN": 2,
+                    "NACNST": 1,
+                    "NANRCT": 1,
+                    "CAOILD": 2,
+                    "NAINDP": 1
+                },
+                "units_lost": {
+                    "HARV": 5,
+                    "HTK": 2,
+                    "DTRUCK": 3
+                },
+                "infantry_lost": {
+                    "SHK": 2,
+                    "DOG": 5
+                },
+                "buildings_bought": {
+                    "NAPOWR": 2,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 2,
+                    "NACNST": 1,
+                    "NANRCT": 1,
+                    "NAINDP": 1
+                },
+                "planes_bought": {
+                    "SPYP": 1
+                },
+                "units_bought": {
+                    "HARV": 5,
+                    "HTNK": 3,
+                    "DRON": 3,
+                    "HTK": 2,
+                    "SMCV": 1,
+                    "DTRUCK": 9
+                },
+                "infantry_bought": {
+                    "SHK": 4,
+                    "DOG": 6,
+                    "SENGINEER": 2
+                }
+            },
+            "buildings_captured": 2,
+            "buildings_killed": 7,
+            "units_killed": 14,
+            "infantry_killed": 24,
+            "buildings_lost": 14,
+            "units_lost": 10,
+            "infantry_lost": 7,
+            "buildings_bought": 13,
+            "planes_bought": 1,
+            "units_bought": 23,
+            "infantry_bought": 12,
+            "funds_left": 20601,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

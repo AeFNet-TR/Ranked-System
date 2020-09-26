@@ -1,0 +1,198 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 992121
+        },
+        "fps": 59,
+        "local_time": "Wed, 09 Sep 2020 22:30:40 +0300",
+        "epoch_time": 1599679840,
+        "players_in_game": 2,
+        "map": "[2] Ranked Frozen Divide",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 439,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "yakup",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 21,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "HTNK": 4
+                },
+                "infantry_killed": {
+                    "E2": 6,
+                    "DOG": 6
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 2,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 2,
+                    "NALASR": 2,
+                    "NACNST": 1,
+                    "NAFLAK": 1,
+                    "NABNKR": 3
+                },
+                "units_bought": {
+                    "HARV": 2,
+                    "HTNK": 1,
+                    "DRON": 2,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 28,
+                    "SHK": 5,
+                    "DOG": 5,
+                    "SENGINEER": 4
+                }
+            },
+            "units_killed": 4,
+            "infantry_killed": 12,
+            "buildings_bought": 14,
+            "units_bought": 6,
+            "infantry_bought": 42,
+            "funds_left": 900,
+            "side": "Russia",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "[TR]KASAP",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2096,
+                "CPT": 15,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAAIRP": 1,
+                    "CAOILD": 2
+                },
+                "buildings_killed": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NAREFN": 1,
+                    "NALASR": 2,
+                    "NACNST": 1,
+                    "NAFLAK": 1,
+                    "NABNKR": 2
+                },
+                "units_killed": {
+                    "HARV": 1,
+                    "HTNK": 2,
+                    "DRON": 1
+                },
+                "infantry_killed": {
+                    "E2": 27,
+                    "SHK": 5,
+                    "DOG": 5,
+                    "SENGINEER": 4
+                },
+                "buildings_lost": {
+                    "NAPOWR": 4,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 5,
+                    "NALASR": 3,
+                    "NACNST": 1,
+                    "CAAIRP": 1,
+                    "CAOILD": 2
+                },
+                "units_lost": {
+                    "HARV": 9,
+                    "HTNK": 32
+                },
+                "infantry_lost": {
+                    "E2": 5,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 4,
+                    "NAHAND": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 7,
+                    "NALASR": 3,
+                    "NACNST": 1
+                },
+                "planes_bought": {
+                    "PDPLANE": 1
+                },
+                "units_bought": {
+                    "HARV": 9,
+                    "HTNK": 37,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 11,
+                    "DOG": 8,
+                    "SENGINEER": 3
+                }
+            },
+            "buildings_captured": 3,
+            "buildings_killed": 9,
+            "units_killed": 4,
+            "infantry_killed": 41,
+            "buildings_lost": 20,
+            "units_lost": 41,
+            "infantry_lost": 7,
+            "buildings_bought": 20,
+            "planes_bought": 1,
+            "units_bought": 47,
+            "infantry_bought": 22,
+            "funds_left": 34413,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

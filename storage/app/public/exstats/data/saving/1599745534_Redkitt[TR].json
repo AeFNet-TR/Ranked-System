@@ -1,0 +1,218 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1091641
+        },
+        "fps": 59,
+        "local_time": "Thu, 10 Sep 2020 16:45:34 +0300",
+        "epoch_time": 1599745534,
+        "players_in_game": 2,
+        "map": "[4] Ranked Divide and Conquer",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 312,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "SpeedyGonzaL",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 2,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "DRON": 1
+                },
+                "infantry_killed": {
+                    "DESO": 1,
+                    "DOG": 4
+                },
+                "buildings_lost": {
+                    "NAPSIS": 1,
+                    "YAPOWR": 1,
+                    "YABRCK": 1,
+                    "YAWEAP": 1,
+                    "YAGGUN": 3,
+                    "YAGRND": 1,
+                    "NATBNK": 1
+                },
+                "infantry_lost": {
+                    "SHK": 1,
+                    "YURI": 1,
+                    "INIT": 10
+                },
+                "buildings_bought": {
+                    "NAPSIS": 1,
+                    "YACNST": 1,
+                    "YAPOWR": 3,
+                    "YABRCK": 1,
+                    "YAWEAP": 1,
+                    "YATECH": 1,
+                    "YAGGUN": 3,
+                    "YAGRND": 1,
+                    "NATBNK": 1,
+                    "YAREFN": 4
+                },
+                "units_bought": {
+                    "HTNK": 1,
+                    "LTNK": 2,
+                    "PCV": 1,
+                    "SMIN": 3
+                },
+                "infantry_bought": {
+                    "SHK": 1,
+                    "ENGINEER": 1,
+                    "YURI": 3,
+                    "INIT": 24,
+                    "BRUTE": 2
+                }
+            },
+            "units_killed": 1,
+            "infantry_killed": 5,
+            "buildings_lost": 9,
+            "infantry_lost": 12,
+            "buildings_bought": 17,
+            "units_bought": 7,
+            "infantry_bought": 31,
+            "funds_left": 725,
+            "side": "Yuri",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Redkitt[TR]",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 13,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "YACNST": 1,
+                    "YAPOWR": 2,
+                    "YATECH": 1,
+                    "YAREFN": 2
+                },
+                "units_killed": {
+                    "HTNK": 1,
+                    "LTNK": 2
+                },
+                "infantry_killed": {
+                    "ENGINEER": 1,
+                    "YURI": 2,
+                    "INIT": 4
+                },
+                "buildings_lost": {
+                    "NAPOWR": 2,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 4,
+                    "NAIRON": 1,
+                    "NACNST": 1,
+                    "NAMISL": 1,
+                    "NANRCT": 1
+                },
+                "units_lost": {
+                    "HARV": 7,
+                    "HTNK": 14,
+                    "HTK": 1
+                },
+                "infantry_lost": {
+                    "E2": 1,
+                    "DESO": 1,
+                    "SLAV": 7
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 5,
+                    "NALASR": 1,
+                    "NAIRON": 1,
+                    "NACNST": 1,
+                    "NAMISL": 1,
+                    "NANRCT": 1
+                },
+                "planes_bought": {
+                    "SPYP": 1
+                },
+                "units_bought": {
+                    "HARV": 7,
+                    "HTNK": 16,
+                    "DRON": 1,
+                    "HTK": 1,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 1,
+                    "SHK": 1,
+                    "DESO": 2,
+                    "DOG": 4
+                }
+            },
+            "buildings_killed": 6,
+            "units_killed": 3,
+            "infantry_killed": 7,
+            "buildings_lost": 14,
+            "units_lost": 22,
+            "infantry_lost": 9,
+            "buildings_bought": 17,
+            "planes_bought": 1,
+            "units_bought": 26,
+            "infantry_bought": 8,
+            "funds_left": 4567,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

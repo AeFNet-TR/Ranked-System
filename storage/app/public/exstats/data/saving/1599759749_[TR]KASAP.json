@@ -1,0 +1,195 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1092037
+        },
+        "fps": 59,
+        "local_time": "Thu, 10 Sep 2020 20:42:29 +0300",
+        "epoch_time": 1599759749,
+        "players_in_game": 2,
+        "map": "[4] Ranked Heck Freezes Over LE",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 428,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "FS-EMPIRE",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 21,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "GATECH": 1
+                },
+                "units_killed": {
+                    "MTNK": 9
+                },
+                "infantry_killed": {
+                    "E1": 2,
+                    "ENGINEER": 1,
+                    "ADOG": 3
+                },
+                "buildings_bought": {
+                    "GAPOWR": 1,
+                    "GAREFN": 4,
+                    "GACNST": 2,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 4,
+                    "AMRADR": 1
+                },
+                "units_bought": {
+                    "AMCV": 2,
+                    "MTNK": 19,
+                    "CMIN": 6
+                },
+                "infantry_bought": {
+                    "E1": 10,
+                    "ENGINEER": 1,
+                    "ADOG": 3,
+                    "GGI": 18
+                }
+            },
+            "buildings_killed": 1,
+            "units_killed": 9,
+            "infantry_killed": 6,
+            "buildings_bought": 14,
+            "units_bought": 27,
+            "infantry_bought": 32,
+            "funds_left": 2925,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "[TR]KASAP",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2295,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "GACNST": 1,
+                    "GAPILL": 3
+                },
+                "units_killed": {
+                    "MTNK": 18,
+                    "CMIN": 5
+                },
+                "infantry_killed": {
+                    "E1": 5,
+                    "ENGINEER": 1,
+                    "ADOG": 3,
+                    "GGI": 16
+                },
+                "buildings_lost": {
+                    "GAPOWR": 3,
+                    "GAREFN": 4,
+                    "GAPILE": 1,
+                    "GAWEAP": 3,
+                    "AMRADR": 1
+                },
+                "planes_lost": {
+                    "ORCA": 4
+                },
+                "units_lost": {
+                    "MTNK": 34,
+                    "CMIN": 7
+                },
+                "infantry_lost": {
+                    "E1": 10,
+                    "JUMPJET": 2,
+                    "ADOG": 1
+                },
+                "buildings_bought": {
+                    "GAPOWR": 3,
+                    "GAREFN": 5,
+                    "GACNST": 2,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 3,
+                    "GAPILL": 2,
+                    "AMRADR": 1
+                },
+                "planes_bought": {
+                    "ORCA": 4,
+                    "PDPLANE": 1
+                },
+                "units_bought": {
+                    "AMCV": 2,
+                    "MTNK": 43,
+                    "CMIN": 7
+                },
+                "infantry_bought": {
+                    "E1": 12,
+                    "ENGINEER": 1,
+                    "JUMPJET": 2,
+                    "ADOG": 4
+                }
+            },
+            "buildings_killed": 4,
+            "units_killed": 23,
+            "infantry_killed": 25,
+            "buildings_lost": 12,
+            "planes_lost": 4,
+            "units_lost": 41,
+            "infantry_lost": 13,
+            "buildings_bought": 18,
+            "planes_bought": 5,
+            "units_bought": 52,
+            "infantry_bought": 19,
+            "funds_left": 9900,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

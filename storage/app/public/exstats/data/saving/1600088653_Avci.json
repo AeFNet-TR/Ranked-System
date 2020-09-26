@@ -1,0 +1,200 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 149164
+        },
+        "fps": 59,
+        "local_time": "Mon, 14 Sep 2020 16:04:13 +0300",
+        "epoch_time": 1600088653,
+        "players_in_game": 2,
+        "map": "[4] Ranked Poltergeist",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 395,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Twetty",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 15,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 33554432
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1
+                },
+                "units_killed": {
+                    "MTNK": 12
+                },
+                "infantry_killed": {
+                    "JUMPJET": 11,
+                    "ADOG": 14
+                },
+                "buildings_bought": {
+                    "NAPOWR": 6,
+                    "NAHAND": 2,
+                    "NAWEAP": 4,
+                    "NAREFN": 6,
+                    "NALASR": 1,
+                    "NACNST": 1,
+                    "NAFLAK": 1
+                },
+                "units_bought": {
+                    "HARV": 7,
+                    "HTNK": 31,
+                    "HTK": 10,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 11,
+                    "DOG": 4,
+                    "SENGINEER": 2
+                }
+            },
+            "buildings_captured": 1,
+            "units_killed": 12,
+            "infantry_killed": 25,
+            "buildings_bought": 21,
+            "units_bought": 49,
+            "infantry_bought": 17,
+            "funds_left": 4257,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Avci",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2599,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 17,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1,
+                    "CAARMY03": 1
+                },
+                "buildings_killed": {
+                    "NAPOWR": 2,
+                    "NAHAND": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 2
+                },
+                "units_killed": {
+                    "HARV": 2,
+                    "HTNK": 26,
+                    "HTK": 6
+                },
+                "infantry_killed": {
+                    "E2": 11,
+                    "DOG": 2,
+                    "SENGINEER": 1
+                },
+                "buildings_lost": {
+                    "GAPOWR": 2,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 4,
+                    "GAPILL": 1,
+                    "CAOILD": 1,
+                    "GAAIRC": 1,
+                    "CAARMY03": 1
+                },
+                "units_lost": {
+                    "MTNK": 31,
+                    "CMIN": 6
+                },
+                "infantry_lost": {
+                    "E1": 2,
+                    "JUMPJET": 8,
+                    "ADOG": 1
+                },
+                "buildings_bought": {
+                    "GAPOWR": 2,
+                    "GAREFN": 6,
+                    "GACNST": 3,
+                    "GAPILE": 1,
+                    "GAWEAP": 5,
+                    "GAYARD": 1,
+                    "GAPILL": 2,
+                    "GAAIRC": 1
+                },
+                "planes_bought": {
+                    "ORCA": 1
+                },
+                "units_bought": {
+                    "AMCV": 3,
+                    "MTNK": 43,
+                    "CMIN": 6
+                },
+                "infantry_bought": {
+                    "E1": 2,
+                    "ENGINEER": 1,
+                    "JUMPJET": 18,
+                    "ADOG": 15
+                }
+            },
+            "buildings_captured": 2,
+            "buildings_killed": 6,
+            "units_killed": 34,
+            "infantry_killed": 14,
+            "buildings_lost": 15,
+            "units_lost": 37,
+            "infantry_lost": 11,
+            "buildings_bought": 21,
+            "planes_bought": 1,
+            "units_bought": 52,
+            "infantry_bought": 36,
+            "funds_left": 6184,
+            "side": "Great Britain",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

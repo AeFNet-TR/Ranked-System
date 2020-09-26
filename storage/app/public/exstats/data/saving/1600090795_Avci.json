@@ -1,0 +1,182 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1491639
+        },
+        "fps": 58,
+        "local_time": "Mon, 14 Sep 2020 16:39:55 +0300",
+        "epoch_time": 1600090795,
+        "players_in_game": 2,
+        "map": "[4] Ranked Caverns of Siberia",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": true,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 464,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Twetty",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "HTNK": 12,
+                    "DRON": 1
+                },
+                "infantry_killed": {
+                    "DOG": 15
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 6,
+                    "NALASR": 2,
+                    "NACNST": 3,
+                    "NADEPT": 1
+                },
+                "units_bought": {
+                    "HARV": 8,
+                    "HTNK": 34,
+                    "DRON": 1,
+                    "SMCV": 3
+                },
+                "infantry_bought": {
+                    "E2": 21,
+                    "ENGINEER": 2,
+                    "DOG": 3
+                }
+            },
+            "units_killed": 13,
+            "infantry_killed": 15,
+            "buildings_bought": 19,
+            "units_bought": 46,
+            "infantry_bought": 26,
+            "funds_left": 425,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": true,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "Avci",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2599,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 5,
+                    "NALASR": 1,
+                    "NACNST": 1,
+                    "NADEPT": 1
+                },
+                "units_killed": {
+                    "HARV": 8,
+                    "HTNK": 26,
+                    "DRON": 1
+                },
+                "infantry_killed": {
+                    "E2": 15,
+                    "ENGINEER": 2,
+                    "DOG": 3
+                },
+                "buildings_lost": {
+                    "NAPOWR": 4,
+                    "NAHAND": 1,
+                    "NAWEAP": 5,
+                    "NAREFN": 6,
+                    "NALASR": 1,
+                    "NACNST": 1
+                },
+                "units_lost": {
+                    "HARV": 10,
+                    "HTNK": 21
+                },
+                "infantry_lost": {
+                    "E2": 1
+                },
+                "buildings_bought": {
+                    "NAPOWR": 4,
+                    "NAHAND": 1,
+                    "NAWEAP": 5,
+                    "NAREFN": 7,
+                    "NALASR": 5,
+                    "NACNST": 3
+                },
+                "units_bought": {
+                    "HARV": 10,
+                    "HTNK": 33,
+                    "DRON": 1,
+                    "SMCV": 3
+                },
+                "infantry_bought": {
+                    "E2": 1,
+                    "DOG": 15
+                }
+            },
+            "buildings_killed": 15,
+            "units_killed": 35,
+            "infantry_killed": 20,
+            "buildings_lost": 18,
+            "units_lost": 31,
+            "infantry_lost": 1,
+            "buildings_bought": 25,
+            "units_bought": 47,
+            "infantry_bought": 16,
+            "funds_left": 20850,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

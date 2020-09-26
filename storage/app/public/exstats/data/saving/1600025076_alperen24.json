@@ -1,0 +1,213 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1392222
+        },
+        "fps": 59,
+        "local_time": "Sun, 13 Sep 2020 22:24:36 +0300",
+        "epoch_time": 1600025076,
+        "players_in_game": 2,
+        "map": "[4] Ranked Heck Freezes Over LE",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 849,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "FS-EMPIRE",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAPOWR": 2,
+                    "NAHAND": 2,
+                    "NAWEAP": 4,
+                    "NAREFN": 2
+                },
+                "units_killed": {
+                    "HTNK": 19,
+                    "HTK": 19,
+                    "DTRUCK": 2
+                },
+                "infantry_killed": {
+                    "E2": 4,
+                    "DOG": 2,
+                    "FLAKT": 20
+                },
+                "buildings_lost": {
+                    "NAPOWR": 1,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 8,
+                    "NACNST": 1,
+                    "NADEPT": 2,
+                    "TESLA": 4,
+                    "NANRCT": 1
+                },
+                "units_lost": {
+                    "HARV": 21,
+                    "APOC": 3,
+                    "HTNK": 4,
+                    "DRON": 3,
+                    "SMCV": 1,
+                    "DTRUCK": 3,
+                    "SCHP": 16
+                },
+                "infantry_lost": {
+                    "SHK": 13,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 9,
+                    "NACNST": 1,
+                    "NADEPT": 2,
+                    "TESLA": 4,
+                    "NANRCT": 1
+                },
+                "planes_bought": {
+                    "SPYP": 1
+                },
+                "units_bought": {
+                    "HARV": 24,
+                    "APOC": 3,
+                    "HTNK": 15,
+                    "DRON": 41,
+                    "SMCV": 2,
+                    "DTRUCK": 9,
+                    "SCHP": 16
+                },
+                "infantry_bought": {
+                    "SHK": 13,
+                    "DOG": 4
+                }
+            },
+            "buildings_killed": 10,
+            "units_killed": 40,
+            "infantry_killed": 26,
+            "buildings_lost": 24,
+            "units_lost": 51,
+            "infantry_lost": 15,
+            "buildings_bought": 25,
+            "planes_bought": 1,
+            "units_bought": 110,
+            "infantry_bought": 17,
+            "funds_left": 10800,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "alperen24",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2295,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NARADR": 1,
+                    "NACNST": 1
+                },
+                "units_killed": {
+                    "HTNK": 16,
+                    "DRON": 27,
+                    "HTK": 2,
+                    "DTRUCK": 4
+                },
+                "infantry_killed": {
+                    "E2": 3,
+                    "DOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 2,
+                    "NAHAND": 3,
+                    "NARADR": 1,
+                    "NAWEAP": 4,
+                    "NAREFN": 3,
+                    "NACNST": 1
+                },
+                "planes_bought": {
+                    "SPYP": 4
+                },
+                "units_bought": {
+                    "HARV": 5,
+                    "HTNK": 33,
+                    "HTK": 21,
+                    "SMCV": 1,
+                    "DTRUCK": 2
+                },
+                "infantry_bought": {
+                    "E2": 25,
+                    "ENGINEER": 1,
+                    "DOG": 2,
+                    "FLAKT": 23
+                }
+            },
+            "buildings_killed": 2,
+            "units_killed": 49,
+            "infantry_killed": 5,
+            "buildings_bought": 14,
+            "planes_bought": 4,
+            "units_bought": 62,
+            "infantry_bought": 51,
+            "funds_left": 2261,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

@@ -1,0 +1,181 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1891921
+        },
+        "fps": 59,
+        "local_time": "Fri, 18 Sep 2020 19:23:03 +0300",
+        "epoch_time": 1600446183,
+        "players_in_game": 2,
+        "map": "[4] Ranked Heck Freezes Over LE",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 632,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "goksubey_",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 17,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAHAND": 1,
+                    "NAWEAP": 2,
+                    "NAREFN": 2,
+                    "NALASR": 8
+                },
+                "units_killed": {
+                    "HARV": 6,
+                    "HTNK": 19,
+                    "SMCV": 1
+                },
+                "infantry_killed": {
+                    "E2": 13,
+                    "SHK": 24,
+                    "DOG": 17
+                },
+                "buildings_lost": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 6,
+                    "NAREFN": 3
+                },
+                "units_lost": {
+                    "HARV": 9,
+                    "HTNK": 22
+                },
+                "infantry_lost": {
+                    "E2": 1,
+                    "ENGINEER": 1,
+                    "DOG": 7
+                },
+                "buildings_bought": {
+                    "NAPOWR": 3,
+                    "NAHAND": 1,
+                    "NAWEAP": 7,
+                    "NAREFN": 6,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 9,
+                    "HTNK": 75,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 7,
+                    "ENGINEER": 1,
+                    "DOG": 62
+                }
+            },
+            "buildings_killed": 13,
+            "units_killed": 26,
+            "infantry_killed": 54,
+            "buildings_lost": 13,
+            "units_lost": 31,
+            "infantry_lost": 9,
+            "buildings_bought": 18,
+            "units_bought": 85,
+            "infantry_bought": 70,
+            "funds_left": 2505,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "FS-EMPIRE",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2295,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 21,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAREFN": 1,
+                    "NACNST": 1
+                },
+                "units_killed": {
+                    "HTNK": 53
+                },
+                "infantry_killed": {
+                    "E2": 6,
+                    "DOG": 55
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NAWEAP": 3,
+                    "NAREFN": 6,
+                    "NALASR": 9,
+                    "NACNST": 2
+                },
+                "units_bought": {
+                    "HARV": 8,
+                    "HTNK": 20,
+                    "SMCV": 3
+                },
+                "infantry_bought": {
+                    "E2": 17,
+                    "SHK": 25,
+                    "DOG": 17
+                }
+            },
+            "buildings_killed": 2,
+            "units_killed": 53,
+            "infantry_killed": 61,
+            "buildings_bought": 22,
+            "units_bought": 31,
+            "infantry_bought": 59,
+            "funds_left": 2775,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

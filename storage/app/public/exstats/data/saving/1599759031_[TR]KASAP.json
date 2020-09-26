@@ -1,0 +1,205 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1091928
+        },
+        "fps": 59,
+        "local_time": "Thu, 10 Sep 2020 20:30:31 +0300",
+        "epoch_time": 1599759031,
+        "players_in_game": 2,
+        "map": "[4] Ranked Jungle of Vietnam",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 459,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "CoRRoQue",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "units_killed": {
+                    "MTNK": 6,
+                    "MGTK": 1
+                },
+                "infantry_killed": {
+                    "ADOG": 2
+                },
+                "buildings_bought": {
+                    "NAPOWR": 4,
+                    "NATECH": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 3,
+                    "NACNST": 2,
+                    "NADEPT": 1
+                },
+                "planes_bought": {
+                    "SPYP": 1
+                },
+                "units_bought": {
+                    "HARV": 3,
+                    "APOC": 3,
+                    "HTNK": 3,
+                    "ZEP": 3,
+                    "DRON": 2,
+                    "SMCV": 2
+                },
+                "infantry_bought": {
+                    "E2": 27,
+                    "SHK": 3,
+                    "ENGINEER": 2,
+                    "DESO": 1,
+                    "DOG": 3,
+                    "FLAKT": 5
+                }
+            },
+            "units_killed": 7,
+            "infantry_killed": 2,
+            "buildings_bought": 14,
+            "planes_bought": 1,
+            "units_bought": 16,
+            "infantry_bought": 41,
+            "funds_left": 5325,
+            "side": "Iraq",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        },
+        "0": {
+            "name": "[TR]KASAP",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2096,
+                "CPT": 15,
+                "HRV": 0,
+                "COL": 3,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_killed": {
+                    "NAPOWR": 2,
+                    "NAWEAP": 1,
+                    "NAREFN": 1,
+                    "NACNST": 1
+                },
+                "units_killed": {
+                    "HARV": 3,
+                    "APOC": 3,
+                    "HTNK": 3,
+                    "ZEP": 3,
+                    "DRON": 2
+                },
+                "infantry_killed": {
+                    "E2": 15,
+                    "SHK": 3,
+                    "ENGINEER": 2,
+                    "DESO": 1,
+                    "FLAKT": 5
+                },
+                "buildings_lost": {
+                    "GAPOWR": 5,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 2,
+                    "GAPILL": 2,
+                    "GAOREP": 1,
+                    "GAAIRC": 1
+                },
+                "units_lost": {
+                    "MTNK": 5,
+                    "CMIN": 4,
+                    "MGTK": 11,
+                    "FV": 14
+                },
+                "infantry_lost": {
+                    "JUMPJET": 3,
+                    "ADOG": 1,
+                    "GGI": 2
+                },
+                "buildings_bought": {
+                    "GAPOWR": 5,
+                    "GAREFN": 3,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GATECH": 1,
+                    "GAWEAP": 2,
+                    "GAPILL": 3,
+                    "GAOREP": 1,
+                    "GAAIRC": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 11,
+                    "CMIN": 4,
+                    "MGTK": 13,
+                    "FV": 14
+                },
+                "infantry_bought": {
+                    "JUMPJET": 3,
+                    "ADOG": 4,
+                    "GGI": 2
+                }
+            },
+            "buildings_killed": 5,
+            "units_killed": 14,
+            "infantry_killed": 26,
+            "buildings_lost": 17,
+            "units_lost": 34,
+            "infantry_lost": 6,
+            "buildings_bought": 18,
+            "units_bought": 43,
+            "infantry_bought": 9,
+            "funds_left": 2988,
+            "side": "France",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        }
+    },
+    "gameResult": "COMPLETION_WON"
+}

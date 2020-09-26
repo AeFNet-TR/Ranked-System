@@ -1,0 +1,184 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 1,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 129011
+        },
+        "fps": 57,
+        "local_time": "Sat, 12 Sep 2020 00:24:26 +0300",
+        "epoch_time": 1599859466,
+        "players_in_game": 2,
+        "map": "[2] Ranked Cloud Nine",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 153,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "Tweety",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 21,
+                "TID": 1,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1,
+                    "CABUNK04": 1
+                },
+                "buildings_killed": {
+                    "GAWEAP": 1
+                },
+                "units_killed": {
+                    "CMIN": 1
+                },
+                "infantry_killed": {
+                    "ENGINEER": 2,
+                    "ADOG": 2
+                },
+                "buildings_lost": {
+                    "GAPOWR": 1,
+                    "GAREFN": 2,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "CAOILD": 1,
+                    "GAAIRC": 1,
+                    "CABUNK04": 1
+                },
+                "units_lost": {
+                    "MTNK": 6,
+                    "CMIN": 4
+                },
+                "infantry_lost": {
+                    "E1": 2
+                },
+                "buildings_bought": {
+                    "GAPOWR": 1,
+                    "GAREFN": 4,
+                    "GACNST": 1,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAAIRC": 1
+                },
+                "units_bought": {
+                    "AMCV": 1,
+                    "MTNK": 6,
+                    "CMIN": 4,
+                    "FV": 1
+                },
+                "infantry_bought": {
+                    "E1": 2,
+                    "ENGINEER": 1,
+                    "GHOST": 1,
+                    "ADOG": 4
+                }
+            },
+            "buildings_captured": 2,
+            "buildings_killed": 1,
+            "units_killed": 1,
+            "infantry_killed": 4,
+            "buildings_lost": 9,
+            "units_lost": 10,
+            "infantry_lost": 2,
+            "buildings_bought": 9,
+            "units_bought": 12,
+            "infantry_bought": 8,
+            "funds_left": 2183,
+            "side": "Germany",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "Curcuna",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 4294967295,
+                "CPS": 2398,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 0,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CABUNK02": 1
+                },
+                "units_killed": {
+                    "FV": 1
+                },
+                "infantry_killed": {
+                    "GHOST": 1,
+                    "ADOG": 4
+                },
+                "buildings_bought": {
+                    "GAPOWR": 1,
+                    "GAREFN": 2,
+                    "GACNST": 2,
+                    "GAPILE": 1,
+                    "GAWEAP": 1,
+                    "GAPILL": 1
+                },
+                "units_bought": {
+                    "AMCV": 2,
+                    "MTNK": 2,
+                    "CMIN": 2
+                },
+                "infantry_bought": {
+                    "E1": 2,
+                    "ENGINEER": 2,
+                    "ADOG": 3
+                }
+            },
+            "buildings_captured": 1,
+            "units_killed": 1,
+            "infantry_killed": 5,
+            "buildings_bought": 8,
+            "units_bought": 6,
+            "infantry_bought": 7,
+            "funds_left": 6100,
+            "side": "America",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}

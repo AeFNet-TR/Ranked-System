@@ -1,0 +1,189 @@
+{
+    "gameReport": {
+        "raw": {
+            "MYID": 0,
+            "ACCO": 0,
+            "DATE": null,
+            "VERS": "V1.001",
+            "SPED": 0,
+            "SPID": 0,
+            "PNGR": 0,
+            "PNGS": 0,
+            "HASH": "",
+            "BASE": true,
+            "MODE": 0,
+            "TRNY": 0,
+            "GSKU": 10497,
+            "IDNO": 1891858
+        },
+        "fps": 55,
+        "local_time": "Fri, 18 Sep 2020 19:00:29 +0300",
+        "epoch_time": 1600444829,
+        "players_in_game": 2,
+        "map": "[2] Ranked Hidden Valley LE v1.34",
+        "starting_units": 0,
+        "ai_players": 0,
+        "crates": false,
+        "build_off_ally_conyards": true,
+        "mcv_redeploy": true,
+        "superweapons": false,
+        "short_game": true,
+        "starting_credits": 10000,
+        "duration": 371,
+        "finished": true,
+        "reconnection_error": false
+    },
+    "playerStats": {
+        "1": {
+            "name": "FS-EMPIRE",
+            "raw": {
+                "VID": 4294967295,
+                "MEM": 4294967295,
+                "CPS": 4294967295,
+                "CPT": 4294967295,
+                "HRV": 0,
+                "COL": 25,
+                "TID": 1,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 16777216
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 1
+                },
+                "buildings_killed": {
+                    "NAREFN": 1
+                },
+                "units_killed": {
+                    "HTNK": 9,
+                    "DRON": 11
+                },
+                "infantry_killed": {
+                    "E2": 10,
+                    "DOG": 18,
+                    "SENGINEER": 1
+                },
+                "buildings_lost": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 2,
+                    "NALASR": 3,
+                    "NACNST": 1
+                },
+                "units_lost": {
+                    "HARV": 6,
+                    "HTNK": 3,
+                    "DTRUCK": 1
+                },
+                "infantry_lost": {
+                    "E2": 2,
+                    "SHK": 4
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NARADR": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 4,
+                    "NALASR": 3,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 6,
+                    "HTNK": 11,
+                    "SMCV": 1,
+                    "DTRUCK": 3
+                },
+                "infantry_bought": {
+                    "E2": 2,
+                    "SHK": 18,
+                    "DOG": 5,
+                    "SENGINEER": 1
+                }
+            },
+            "buildings_captured": 1,
+            "buildings_killed": 1,
+            "units_killed": 20,
+            "infantry_killed": 29,
+            "buildings_lost": 10,
+            "units_lost": 10,
+            "infantry_lost": 6,
+            "buildings_bought": 12,
+            "units_bought": 21,
+            "infantry_bought": 26,
+            "funds_left": 3777,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": true,
+            "draw": false,
+            "defeated": false
+        },
+        "0": {
+            "name": "Cengaver",
+            "raw": {
+                "VID": 16777216,
+                "MEM": 2147483647,
+                "CPS": 2494,
+                "CPT": 6,
+                "HRV": 0,
+                "COL": 11,
+                "TID": 0,
+                "SID": 1,
+                "CID": 0,
+                "IPA": 4294967295
+            },
+            "detailed_counts": {
+                "buildings_captured": {
+                    "CAOILD": 2
+                },
+                "units_killed": {
+                    "HTNK": 8,
+                    "DTRUCK": 2
+                },
+                "infantry_killed": {
+                    "SHK": 14,
+                    "DOG": 3
+                },
+                "buildings_bought": {
+                    "NAPOWR": 1,
+                    "NAHAND": 1,
+                    "NAWEAP": 1,
+                    "NAREFN": 4,
+                    "NACNST": 1
+                },
+                "units_bought": {
+                    "HARV": 4,
+                    "HTNK": 11,
+                    "DRON": 14,
+                    "SMCV": 1
+                },
+                "infantry_bought": {
+                    "E2": 21,
+                    "ENGINEER": 1,
+                    "DOG": 17,
+                    "SENGINEER": 3
+                }
+            },
+            "buildings_captured": 2,
+            "units_killed": 10,
+            "infantry_killed": 17,
+            "buildings_bought": 8,
+            "units_bought": 30,
+            "infantry_bought": 42,
+            "funds_left": 5294,
+            "side": "Libya",
+            "disconnected": false,
+            "no_completion": false,
+            "quit": false,
+            "won": false,
+            "draw": false,
+            "defeated": true
+        }
+    },
+    "gameResult": "COMPLETION_DEFEATED"
+}
